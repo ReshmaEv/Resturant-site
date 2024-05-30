@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Resturant-site/static/css/main.9555c44e.css",
+    "main.js": "/Resturant-site/static/js/main.e1330cad.js",
+    "static/js/453.dfbcde2d.chunk.js": "/Resturant-site/static/js/453.dfbcde2d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Resturant-site/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/Resturant-site/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/Resturant-site/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/Resturant-site/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/Resturant-site/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/steak_14376304.png": "/Resturant-site/static/media/steak_14376304.9c1bb5aac4665195074b.png",
+    "static/media/mutton.png": "/Resturant-site/static/media/mutton.5c84635c2fe2037c97b5.png",
+    "static/media/seafood.png": "/Resturant-site/static/media/seafood.3e98aa7df8a6e3771e7f.png",
+    "static/media/fa-regular-400.woff2": "/Resturant-site/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/tray.png": "/Resturant-site/static/media/tray.d7ca5360d88f15ef44c2.png",
+    "static/media/desserts.png": "/Resturant-site/static/media/desserts.39ed6f83817f744a9143.png",
+    "static/media/kalua-pork.png": "/Resturant-site/static/media/kalua-pork.eb42a6eca65dc94e22bd.png",
+    "static/media/food_14973103.png": "/Resturant-site/static/media/food_14973103.206be7f816e75600fdc5.png",
+    "static/media/fa-v4compatibility.ttf": "/Resturant-site/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Resturant-site/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/Resturant-site/index.html",
+    "main.9555c44e.css.map": "/Resturant-site/static/css/main.9555c44e.css.map",
+    "main.e1330cad.js.map": "/Resturant-site/static/js/main.e1330cad.js.map",
+    "453.dfbcde2d.chunk.js.map": "/Resturant-site/static/js/453.dfbcde2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9555c44e.css",
+    "static/js/main.e1330cad.js"
+  ]
+}
